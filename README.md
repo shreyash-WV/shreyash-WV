@@ -1,16 +1,130 @@
-## Hi there 👋
+<!-- Save this as README.md inside a PUBLIC repo named exactly: shreyash-WV -->
 
-<!--
-**shreyash-WV/shreyash-WV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shreyash%20Gund&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20AI%20Integration&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/shreyash-WV">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shreyash;I+build+mobile+apps+with+React+Native+%26+Expo;I+ship+web+apps+with+React+%26+Node.js;I+love+adding+AI+to+real+products" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreyash-WV&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyash%20Gund-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-gund-4ab800193)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://github.com/shreyash-WV/Shreyash-s-Portfolio)
+![Location](https://img.shields.io/badge/Pune-India-orange?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Currently focusing on **mobile apps, web platforms and AI-powered features**
+- 🏢 Building with **@flymeets**
+- 📱 Mobile: **React Native + Expo** (TypeScript)
+- 🌐 Web: **React, Vite, Node.js, Express**
+- 🤖 Exploring **LLMs, RAG pipelines and voice AI**
+- 📍 Based in **Pune, India**
+- 💬 Ask me about: app architecture, booking platforms, AI integrations
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI & Tools**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌐 [**Shreyash's Portfolio**](https://github.com/shreyash-WV/Shreyash-s-Portfolio) | Personal portfolio showcasing my work | JavaScript |
+| 🖥️ [**PC Store**](https://github.com/shreyash-WV/pc_store) | E-commerce store for PC hardware | PHP |
+| 📝 [**E-Submit**](https://github.com/shreyash-WV/E-Submit-Assignment-submission-portal) | Assignment submission portal | JavaScript |
+| 🎂 [**Cake Shop**](https://github.com/shreyash-WV/Cake-Shop) | Online cake ordering website | PHP |
+| ✍️ [**BlogHub Frontend**](https://github.com/shreyash-WV/BlogHub_Frontend) | Blogging platform frontend | JavaScript |
+| 🧪 [**Selenium Exam**](https://github.com/shreyash-WV/Selinium_exam) | Automated testing with Selenium | Java |
+
+> 💡 Tip: add screenshots or live links to each project to make this section pop.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyash-WV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-WV&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-WV&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash-WV&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreyash-WV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-gund-4ab800193)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyash-WV)
+<!-- Add more: Email, Twitter/X, Portfolio link -->
+
+<br/>
+
+*"Make it work, make it right, make it fast."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
