@@ -80,7 +80,6 @@
 | ✍️ [**BlogHub Frontend**](https://github.com/shreyash-WV/BlogHub_Frontend) | Blogging platform frontend | JavaScript |
 | 🧪 [**Selenium Exam**](https://github.com/shreyash-WV/Selinium_exam) | Automated testing with Selenium | Java |
 
-> 💡 Tip: add screenshots or live links to each project to make this section pop.
 
 ---
 
